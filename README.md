@@ -11,6 +11,12 @@ SpeechRecognition
 ....................................................................................
 
 
+
+NOTE------->THIS PROJECT SOON WILL BE DEPLOYED AND WILL BE LIVE
+
+
+
+
 Simply paste the link of you tube vedios in "vedio_link":-
 
 For example in my case................video_link="https://youtu.be/imNlJohlLPk?si=6ofqc2jLa7UJ7vbf"
