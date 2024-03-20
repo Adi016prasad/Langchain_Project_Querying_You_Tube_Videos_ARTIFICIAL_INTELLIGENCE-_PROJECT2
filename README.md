@@ -3,10 +3,10 @@ THIS LLM MODEL HELPS YOU TO GET ANSWER OF THE QUESTION THAT YOU ASK FROM IT ABOU
 
 
 ..........................LIBRARIES USED ARE........................................
-openai: For interaction with OpenAI's GPT-3.5 model.
-langchain
-pytube
-pydub
+openai: For interaction with OpenAI's GPT-3.5 model,
+langchain,
+pytube,
+pydub,
 SpeechRecognition
 ....................................................................................
 
